@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: 'Documentação Book Digital Liz',
+  base: '/docsBook/',
   description: 'Docs Book Digital Liz',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
