@@ -1,5 +1,5 @@
 ---
-Páginas
+Title: Páginas
 ---
 
 <script setup>

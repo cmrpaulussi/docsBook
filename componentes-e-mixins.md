@@ -1,5 +1,5 @@
 ---
-Componentes e Mixins
+Title: Componentes e Mixins
 ---
 
 ### GetImgMixin
